@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+
+langchain
+langchain[google-genai]
+langchain-ollama
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+
+faiss-cpu
+sentence-transformers
+
+pypdf
+
+ipykernel

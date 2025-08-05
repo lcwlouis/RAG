@@ -1,3 +1,7 @@
+# RAG Data
+chroma_db/
+texts/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
